@@ -3,3 +3,6 @@ dist/
 site/data/webpack.json
 /npm-debug.log
 yarn-error.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
